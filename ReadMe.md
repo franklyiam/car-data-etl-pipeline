@@ -68,7 +68,7 @@ python etl_pipeline.py
 
 ## ✍️ Author
 
-Developed by [Your Name]
+Developed by Frank Ndlovu
 
 ## 📄 License
 
